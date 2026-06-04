@@ -46,7 +46,7 @@ Atualmente na [**4users**](https://4users.com.br), construindo produtos que faze
 <div align="center">
   <img height="165" src="https://github-stats.as93.net/api?username=GuilhermeOSR&show_icons=true&hide_border=true&title_color=C94A1A&icon_color=C94A1A&text_color=333333&bg_color=ffffff" />
 
-<img height="165" src="https://github-stats.as93.net/api/top-langs/?username=GuilhermeOSR&layout=compact&hide_border=true&title_color=C94A1A&text_color=333333&bg_color=ffffff" />
+  <img height="165" src="https://github-stats.as93.net/api/top-langs/?username=GuilhermeOSR&layout=compact&hide_border=true&title_color=C94A1A&text_color=333333&bg_color=ffffff" />
 </div>
 
 <br/>
