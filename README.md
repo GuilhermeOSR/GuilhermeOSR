@@ -4,7 +4,7 @@
 
 # Guilherme de Oliveira Santa Rosa
 
-*Desenvolvedor Full Stack · Curitiba, PR*
+*Desenvolvedor Full Stack · Brasil*
 
 [![Site](https://img.shields.io/badge/4users.com.br-C94A1A?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://4users.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-GuilhermeOSR-181717?style=flat-square&logo=github)](https://github.com/GuilhermeOSR)
