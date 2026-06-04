@@ -1,28 +1,15 @@
 <div align="center">
 
-<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="100" rx="0" fill="#C94A1A"/>
-  <text x="400" y="45" font-family="Georgia, serif" font-size="32" font-weight="600" fill="white" text-anchor="middle" dominant-baseline="middle">GuilhermeOSR</text>
-  <text x="400" y="78" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="rgba(255,255,255,0.8)" text-anchor="middle" letter-spacing="3">DESENVOLVEDOR FULL STACK</text>
-</svg>
+![header](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20GuilhermeOSR%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-C94A1A?style=for-the-badge)
+
+# Guilherme de Oliveira Santa Rosa
+
+*Desenvolvedor Full Stack · Curitiba, PR*
+
+[![Site](https://img.shields.io/badge/4users.com.br-C94A1A?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://4users.com.br)
+[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeOSR-181717?style=flat-square&logo=github)](https://github.com/GuilhermeOSR)
 
 </div>
-
-<br/>
-
-<div align="center">
-  <h2>Guilherme de Oliveira Santa Rosa</h2>
-  <p><em>Desenvolvedor Full Stack · Curitiba, PR</em></p>
-  <a href="https://4users.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/4users.com.br-C94A1A?style=flat-square&logo=firefoxbrowser&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/GuilhermeOSR" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-GuilhermeOSR-181717?style=flat-square&logo=github"/>
-  </a>
-</div>
-
-<br/>
 
 ---
 
@@ -57,15 +44,14 @@ Atualmente na [**4users**](https://4users.com.br), construindo produtos que faze
 ### Estatísticas
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOSR&show_icons=true&theme=default&hide_border=true&title_color=C94A1A&icon_color=C94A1A&text_color=1C1C1A&bg_color=F7F5F0&include_all_commits=true&count_private=true&rank_icon=github" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOSR&layout=compact&hide_border=true&title_color=C94A1A&text_color=1C1C1A&bg_color=F7F5F0&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOSR&show_icons=true&hide_border=true&title_color=C94A1A&icon_color=C94A1A&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOSR&layout=compact&hide_border=true&title_color=C94A1A&text_color=333333&bg_color=ffffff&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeOSR&hide_border=true&date_format=d%20de%20M%5B%2C%20Y%5D&background=F7F5F0&stroke=E0DEDA&ring=C94A1A&fire=C94A1A&currStreakNum=1C1C1A&sideNums=1C1C1A&currStreakLabel=C94A1A&sideLabels=6B6B67&dates=6B6B67" />
+  <img src="https://streak-stats.demolab.com?user=GuilhermeOSR&hide_border=true&date_format=d%20de%20M%5B%2C%20Y%5D&background=ffffff&stroke=dddddd&ring=C94A1A&fire=C94A1A&currStreakNum=333333&sideNums=333333&currStreakLabel=C94A1A&sideLabels=888888&dates=888888" />
 </div>
 
 ---
@@ -84,16 +70,9 @@ Atualmente na [**4users**](https://4users.com.br), construindo produtos que faze
 ### Gráfico de atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeOSR&bg_color=F7F5F0&color=1C1C1A&line=C94A1A&point=C94A1A&area=true&area_color=C94A1A&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeOSR&bg_color=ffffff&color=333333&line=C94A1A&point=C94A1A&area=true&area_color=C94A1A&hide_border=true" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
-
-<svg width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="50" fill="#C94A1A"/>
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.7)" text-anchor="middle" letter-spacing="2">GUILHERMEOSR · 2025</text>
-</svg>
-
+  <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20GuilhermeOSR%20·%202025%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-C94A1A?style=for-the-badge"/>
 </div>
