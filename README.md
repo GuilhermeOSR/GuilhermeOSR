@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C94A1A&height=120&section=header&text=GuilhermeOSR&fontSize=40&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="100" rx="0" fill="#C94A1A"/>
+  <text x="400" y="45" font-family="Georgia, serif" font-size="32" font-weight="600" fill="white" text-anchor="middle" dominant-baseline="middle">GuilhermeOSR</text>
+  <text x="400" y="78" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="rgba(255,255,255,0.8)" text-anchor="middle" letter-spacing="3">DESENVOLVEDOR FULL STACK</text>
+</svg>
 
 </div>
 
@@ -86,5 +90,10 @@ Atualmente na [**4users**](https://4users.com.br), construindo produtos que faze
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C94A1A&height=80&section=footer" width="100%"/>
+
+<svg width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="50" fill="#C94A1A"/>
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.7)" text-anchor="middle" letter-spacing="2">GUILHERMEOSR · 2025</text>
+</svg>
+
 </div>
