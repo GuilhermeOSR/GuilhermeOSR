@@ -44,8 +44,9 @@ Atualmente na [**4users**](https://4users.com.br), construindo produtos que faze
 ### Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOSR&show_icons=true&hide_border=true&title_color=C94A1A&icon_color=C94A1A&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOSR&layout=compact&hide_border=true&title_color=C94A1A&text_color=333333&bg_color=ffffff&langs_count=6" />
+  <img height="165" src="https://github-stats.as93.net/api?username=GuilhermeOSR&show_icons=true&hide_border=true&title_color=C94A1A&icon_color=C94A1A&text_color=333333&bg_color=ffffff" />
+
+<img height="165" src="https://github-stats.as93.net/api/top-langs/?username=GuilhermeOSR&layout=compact&hide_border=true&title_color=C94A1A&text_color=333333&bg_color=ffffff" />
 </div>
 
 <br/>
