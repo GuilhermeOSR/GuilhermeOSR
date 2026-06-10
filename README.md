@@ -15,7 +15,7 @@
 
 ### Sobre mim
 
-Focado no desenvolvimento de aplicações web **robustas, escaláveis e eficientes**.
+Focado no desenvolvimento de aplicações web.
 Transformo ideias em soluções técnicas sólidas, priorizando performance e experiência do usuário.
 
 Atualmente na [**4users**](https://4users.com.br), construindo produtos que fazem diferença.
